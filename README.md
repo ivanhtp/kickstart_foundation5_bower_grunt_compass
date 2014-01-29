@@ -46,12 +46,12 @@ Full working blank project for Foundation, Compass and Grunt lovers!
   
   This project is organized following the structure below:
 
-  *__bower_components__ - All the assets and libs used in this project: Foundation, modernizr, jquery, etc...
-  *__node_modules__     - All plugins used by grunt and modules from Node: clean, uglify, compass, etc... 
-  *__scss__             - The global style of application goes here, basically your foundation overrides.      
-  *__img__              - Put your images here, they will be joined into a sprite in development/img. 
-  *__development__      - Your HTML files and javascripts only. Grunt will bring images and css for you, don't worry.   
-  *__build__            - Here goes your project ready for run. Deploy? Just copy this folder and be happy. DON'T CODE ANYTHING HERE!!!     
+  * __bower_components__ - All the assets and libs used in this project: Foundation, modernizr, jquery, etc...
+  * __node_modules__     - All plugins used by grunt and modules from Node: clean, uglify, compass, etc... 
+  * __scss__             - The global style of application goes here, basically your foundation overrides.      
+  * __img__              - Put your images here, they will be joined into a sprite in development/img. 
+  * __development__      - Your HTML files and javascripts only. Grunt will bring images and css for you, don't worry. 
+  * __build__            - Here goes your project ready for run. Deploy? Just copy this folder and be happy. DON'T CODE ANYTHING HERE!!!     
 
 
 
