@@ -36,14 +36,11 @@ Full working blank project for Foundation, Compass and Grunt lovers!
 ## Downloading
 
   Just download and unzip or clone the project inside the folder you want
-  * [Download](https://github.com/ivanhtp/kickstart_foundation5_bower_grunt_compass/archive/master.zip)
-  * Or clone: `git clone https://github.com/ivanhtp/kickstart_foundation5_bower_grunt_compass.git`
+  * [Download](https://github.com/ivanhtp/kickstart_foundation5_bower_grunt_compass/archive/master.zip) or clone: `git clone https://github.com/ivanhtp/kickstart_foundation5_bower_grunt_compass.git`
   
   Now just open your folder and run:
   * `grunt`
-  
-  Voila. 
-    
+
 
 ## Folder Structure
   
@@ -59,9 +56,9 @@ Full working blank project for Foundation, Compass and Grunt lovers!
 ## Configuration Files!
 
   * __config.rb__ - Compass configuration file. Don't edit it unless you know what you're doing.
-  * __bower.json__ - Bower assets dependencies goes here. Write any bower dependency you'll need and run 'bower install'.
+  * __bower.json__ - Bower assets dependencies goes here. Write any bower dependency you'll need and run `bower install`.
   * __package.json__ - Project version information for building. Project name, author, version goes here.
-  * __Gruntfile.js__ - This file is to Grunt, what bower.json is to bower. Here goes Grunt dependencies/plugins and its configurations. Like bower, if you add a new dependency, run 'npm install' to download the new dependencies
+  * __Gruntfile.js__ - This file is to Grunt, what bower.json is to bower. Here goes Grunt dependencies/plugins and its configurations. Like bower, if you add a new dependency, run `npm install` to download the new dependencies
   
 
 ## Upgrading
