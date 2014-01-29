@@ -1,4 +1,4 @@
-# Kickstarter Structure for Interface Projects
+# Kickstarter Structure for Front End Projects
 
 Full working blank project for Foundation, Compass and Grunt lovers!
 
