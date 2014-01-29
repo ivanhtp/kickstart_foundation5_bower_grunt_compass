@@ -35,7 +35,7 @@ Full working blank project for Foundation, Compass and Grunt lovers!
 
 ## Downloading
 
-  Now is just download and unzip or clone the project inside the folder you want
+  Just download and unzip or clone the project inside the folder you want
   * [Download](https://github.com/ivanhtp/kickstart_foundation5_bower_grunt_compass/archive/master.zip)
   * Or clone: `git clone https://github.com/ivanhtp/kickstart_foundation5_bower_grunt_compass.git`
   
@@ -48,13 +48,21 @@ Full working blank project for Foundation, Compass and Grunt lovers!
 ## Folder Structure
   
   This project is organized following the structure below:
-  * 'bower_components' - __All the assets and libs used in this project: Foundation, modernizr, jquery, etc...__
-  * 'node_modules' - __All plugins used by grunt and modules from Node: clean, uglify, compass, etc...__
-  * 'scss' - __The global style of application goes here, basically your foundation overrides...__
-  * 'img' - __Put your images here, they will be joined into a sprite in development/img...__
-  * 'development' - __Your HTML files and javascripts only. Grunt will bring images and css for you, don't worry__
-  * 'build' - __Here goes your project ready for run. Deploy? Just copy this folder and be happy. DON'T CODE ANYTHING HERE!!!__
+  * __bower_components__ - All the assets and libs used in this project: Foundation, modernizr, jquery, etc...
+  * __node_modules__ - All plugins used by grunt and modules from Node: clean, uglify, compass, etc...
+  * __scss__ - The global style of application goes here, basically your foundation overrides...
+  * __img__ - Put your images here, they will be joined into a sprite in development/img...
+  * __development__ - Your HTML files and javascripts only. Grunt will bring images and css for you, don't worry
+  * __build__ - Here goes your project ready for run. Deploy? Just copy this folder and be happy. DON'T CODE ANYTHING HERE!!!
 
+
+## Configuration Files!
+
+  * __config.rb__ - Compass configuration file. Don't edit it unless you know what you're doing.
+  * __bower.json__ - Bower assets dependencies goes here. Write any bower dependency you'll need and run 'bower install'.
+  * __package.json__ - Project version information for building. Project name, author, version goes here.
+  * __Gruntfile.js__ - This file is to Grunt, what bower.json is to bower. Here goes Grunt dependencies/plugins and its configurations. Like bower, if you add a new dependency, run 'npm install' to download the new dependencies
+  
 
 ## Upgrading
 
@@ -63,3 +71,7 @@ Full working blank project for Foundation, Compass and Grunt lovers!
  ```bash
  bower update
  ```
+ 
+ ## About
+ This project was created by Ivan Pauletti | @ivanhtp | ivanpauletti [at] gmail.com.
+ 
