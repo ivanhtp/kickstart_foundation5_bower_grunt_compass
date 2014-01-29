@@ -18,7 +18,7 @@ Full working blank project for Foundation, Compass and Grunt lovers!
 
   First of all, you need to install the applications below:
   * Git (dah!)
-  * Ruby 1.9+
+  * Ruby 1.9 or higher
   * [Node.js](http://nodejs.org)
   
   Use the Node.js package manager (you may have it, if you have Node installed) to install [bower](http://bower.io) and [grunt.js](http://bower.io) : 
