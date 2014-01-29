@@ -71,6 +71,6 @@ Full working blank project for Foundation, Compass and Grunt lovers!
  bower update
  ```
  
- ## About
+## About
  This project was created by Ivan Pauletti | @ivanhtp | ivanpauletti [at] gmail.com.
  
