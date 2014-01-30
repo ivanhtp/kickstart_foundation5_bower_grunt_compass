@@ -1,5 +1,5 @@
 # Kickstarter Structure for Front End Projects
-![alt tag](https://photos-6.dropbox.com/t/0/AACSnkYq9ZgD38RlgDpnICzsN292ccX8_FmnyxnPi0Oh9A/12/1568348/png/2048x1536/3/1391029200/0/2/Banner.png/cQNzrXogJn-UuxsvGyCqsYHc-80bHuQuwO5TBOPXYtk)
+![alt tag](http://10arte.com/storage/Banner.png)
 
 Full working blank project for Foundation, Compass and Grunt lovers!
 
